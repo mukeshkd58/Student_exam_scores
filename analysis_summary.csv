@@ -1,0 +1,9 @@
+Metric,Value
+TestPrep: Completed,72.66097438473129
+TestPrep: None,65.6975321736671
+ParentEduc: Master's Degree,74.84198385236448
+ParentEduc: Some High School,63.90906893843272
+StudyHours: > 10,69.61328976034858
+StudyHours: < 5,66.61556202961884
+Overall Result: Pass,28808.0
+Overall Result: Fail,1833.0
